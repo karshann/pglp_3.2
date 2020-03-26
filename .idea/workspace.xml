@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddfd6183-d5a1-4384-afc2-96973a54c734" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Employe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vendeur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Vendeur.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Vendeur.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,8 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
@@ -69,5 +70,9 @@
       <screen x="70" y="27" width="1850" height="1053" />
     </state>
     <state width="1804" height="275" key="GridCell.Tab.0.right/70.27.1850.1053@70.27.1850.1053" timestamp="1583927465596" />
+    <state x="1198" y="270" width="509" height="573" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585222298915">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="1198" y="270" width="509" height="573" key="com.intellij.testIntegration.createTest.CreateTestDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1585222298915" />
   </component>
 </project>
